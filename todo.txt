@@ -1,3 +1,9 @@
+Personal todo list:
+- edit replay menu
+- edit loading screen
+
+I keep updated on StaticVoid's version of the HUD so these below are his todo items.
+
 - Quest log opening
 - mannpower supernova powerup meter
 

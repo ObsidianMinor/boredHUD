@@ -459,12 +459,12 @@ Scheme
 	// describes all the fonts
 	Fonts
 	{
-		// boredhud fonts //
+		// custom fonts //
 		"bh10"
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"10"
 				"antialias"		"1"
 			}
@@ -474,7 +474,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"12"
 				"antialias"		"1"
 			}
@@ -484,7 +484,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"14"
 				"antialias"		"1"
 			}
@@ -494,7 +494,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"18"
 				"antialias"		"1"
 			}
@@ -504,7 +504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"24"
 				"antialias"		"1"
 			}
@@ -514,7 +514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"28"
 				"antialias"		"1"
 			}
@@ -524,7 +524,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"32"
 				"antialias"		"1"
 			}
@@ -534,7 +534,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"38"
 				"antialias"		"1"
 			}
@@ -544,7 +544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"42"
 				"antialias"		"1"
 			}
@@ -554,7 +554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"48"
 				"antialias"		"1"
 			}
@@ -564,7 +564,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"52"
 				"antialias"		"1"
 			}
@@ -574,7 +574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"58"
 				"antialias"		"1"
 			}
@@ -584,7 +584,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"60"
 				"antialias"		"1"
 			}
@@ -594,7 +594,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Blue Highway"
+				"name"			"Segoe UI Bold"
 				"tall"				"72"
 				"antialias"		"1"
 			}
@@ -607,7 +607,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"10"
 				"antialias"		"1"
 			}
@@ -617,7 +617,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"12"
 				"antialias"		"1"
 			}
@@ -627,7 +627,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"14"
 				"antialias"		"1"
 			}
@@ -637,7 +637,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"18"
 				"antialias"		"1"
 			}
@@ -647,7 +647,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"24"
 				"antialias"		"1"
 			}
@@ -657,7 +657,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"28"
 				"antialias"		"1"
 			}
@@ -667,7 +667,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"32"
 				"antialias"		"1"
 			}
@@ -677,7 +677,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"38"
 				"antialias"		"1"
 			}
@@ -687,7 +687,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"42"
 				"antialias"		"1"
 			}
@@ -697,7 +697,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"48"
 				"antialias"		"1"
 			}
@@ -707,7 +707,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"52"
 				"antialias"		"1"
 			}
@@ -717,7 +717,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"58"
 				"antialias"		"1"
 			}
@@ -727,7 +727,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"60"
 				"antialias"		"1"
 			}
@@ -737,7 +737,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Larke Neue"
+				"name"			"Segoe UI Semilight"
 				"tall"				"72"
 				"antialias"		"1"
 			}
@@ -5550,13 +5550,13 @@ Scheme
 		
 		"8"
 		{
-			"font" "resource/fonts/blue highway bd.ttf"
-			"name"	"Blue Highway"
+			"font" "resource/fonts/SEGOEUIB.TTF"
+			"name"	"Segoe UI Bold"
 		}
 		"9"
 		{
-			"font" "resource/fonts/Larke Neue Regular.ttf"
-			"name"	"Larke Neue"
+			"font" "resource/fonts/SEGOEUISL.TTF"
+			"name"	"Segoe UI Semilight"
 		}
 	}
 }
