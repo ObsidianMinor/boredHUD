@@ -7,10 +7,10 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
-		"tall"			"480"
+		"tall"			"p1"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"1"
@@ -28,7 +28,7 @@
 		"titlebarbgcolor_override"				"46 43 42 0"
 
 		"clientinsetx_override"			"0"
-		"sheetinset_bottom"				"-5"
+		"sheetinset_bottom"				"-10"
 
 		"NavToRelay"			"BackButton"
 	}
@@ -41,10 +41,10 @@
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"f0"
-		"tall"			"120"
+		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			""
+		"image"			"loadout_header"
 		"tileImage"		"1"
 	}
 	"BackgroundFooter"
@@ -80,10 +80,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Sheet"
-		"tabxindent"	"80"
-		"tabxdelta"		"10"
-		"tabwidth"		"240"
-		"tabheight"		"34"
+		"tabxindent"	"325"
+		"tabxdelta"		"0"
+		"tabwidth"		"f0"
+		"tabheight"		"30"
 		"transition_time" "0"
 
 		"HeaderLine"
@@ -91,11 +91,11 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"HeaderLine"
 			"xpos"			"0"
-			"ypos"			"32"
+			"ypos"			"20"
 			"zpos"			"5"
 			"wide"			"f0"
-			"tall"			"10"
-			"visible"		"0"
+			"tall"			"3"
+			"visible"		"1"
 			"enabled"		"1"
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
@@ -104,13 +104,13 @@
 		"tabskv"
 		{
 			"textinsetx"		"40"
-			"font"				"HudFontMediumBold"
-			"selectedcolor"		"200 187 161 0"
-			"unselectedcolor"	"130 120 104 0"
-			"defaultBgColor_override"	"46 43 42 0"
+			"font"				"bh32"
+			"selectedcolor"		"customWhite"
+			"unselectedcolor"	"customWhite"
+			"defaultBgColor_override"	"46 43 42 255"
 			"paintbackground"	"0"
-			"activeborder_override"	""
-			"normalborder_override" ""
+			"activeborder_override"	"NoBorder"
+			"normalborder_override" "NoBorder"
 			"mouseinputenabled"	"0"
 		}
 	}
@@ -140,17 +140,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		//default
-		"defaultBgColor_override"	"customGrayPanel"
-		"defaultFgColor_override" "customWhite"
-		"border_default"					"NoBorder"
-		//armed
-		"armedBgColor_override"		"customGrayPanel"
-		"armedFgColor_override"		"customGreen"
-		"border_armed"						"NoBorder"
-		//depressed
-		"depressedBgColor_override"	"customGrayPanel"
-		"depressedFgColor_override"	"customGreen"
 	}
 
 	"WaitingForLeaderLabel"
@@ -237,17 +226,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		//default
-		"defaultBgColor_override"	"customGrayPanel"
-		"defaultFgColor_override" "customWhite"
-		"border_default"					"NoBorder"
-		//armed
-		"armedBgColor_override"		"customGrayPanel"
-		"armedFgColor_override"		"customGreen"
-		"border_armed"						"NoBorder"
-		//depressed
-		"depressedBgColor_override"	"customGrayPanel"
-		"depressedFgColor_override"	"customGreen"
 	}
 
 	"PlayNowButton"
@@ -439,17 +417,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		//default
-		"defaultBgColor_override"	"customGrayPanel"
-		"defaultFgColor_override" "customWhite"
-		"border_default"					"NoBorder"
-		//armed
-		"armedBgColor_override"		"customGrayPanel"
-		"armedFgColor_override"		"customGreen"
-		"border_armed"						"NoBorder"
-		//depressed
-		"depressedBgColor_override"	"customGrayPanel"
-		"depressedFgColor_override"	"customGreen"
 	}
 
 	"StartExplanation"

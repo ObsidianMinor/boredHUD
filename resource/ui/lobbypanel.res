@@ -33,7 +33,7 @@
 		"visible"		"1"
 		"enabled"		"0"
 		"mouseinputenabled" "0"
-		"image"			"competitive/comp_background_tier001a"
+		"image"			"competitive/comp_background_tier002a"
 		"scaleImage"	"1"
 	}
 
