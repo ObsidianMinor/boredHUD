@@ -1328,7 +1328,7 @@
 
             "image_name"        "../console/intro"
             "button_token"      "Quickplay"
-            "button_command"    "engine OpenQuickplayBrowser"
+            "button_command"    "engine OpenQuickplayDialog"
             "desc_token"        "Play the original Team Fortress 2 experience on an official Valve or community server."
         }
 
