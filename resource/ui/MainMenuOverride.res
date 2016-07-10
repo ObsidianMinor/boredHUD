@@ -1332,6 +1332,22 @@
             "desc_token"        "Play the original Team Fortress 2 experience on an official Valve or community server."
         }
 
+				"CasualEntry"
+				{
+					"ControlName"	"CMainMenuPlayListEntry"
+					"fieldName"		"CasualEntry"
+					"xpos"			"0"
+					"ypos"			"3"
+					"tall"			"45"
+					"wide"			"p1"
+					"proportionaltoparent"	"1"
+
+					"image_name"		"main_menu/main_menu_button_casual"
+					"button_token"		"#MMenu_PlayList_Casual_Button"
+					"button_command"	"play_casual"
+					"desc_token"		"#MMenu_PlayList_Casual_Desc"
+				}
+
 				"CompetitiveEntry"
 				{
 					"ControlName"	"CMainMenuPlayListEntry"
